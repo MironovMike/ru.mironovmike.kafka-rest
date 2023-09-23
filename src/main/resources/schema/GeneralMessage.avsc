@@ -1,0 +1,8 @@
+{
+  "namespace": "ru.mironovmike.kafkarest.schema",
+  "type": "record",
+  "name": "GeneralMessage",
+  "fields": [
+    {"name": "data", "type": "string"}
+  ]
+}
